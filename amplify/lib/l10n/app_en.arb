@@ -1,0 +1,180 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+
+    "userNameEmail": "Username or Email address",
+    "@userNameEmail": {
+      "description": "User name input field"
+    },
+
+    "password": "Password",
+    "@password": {
+      "description": "Password input field"
+    },
+
+    "forgetPassword":"Forgotten password?",
+    "@forgetPassword":{
+      "description":"forgetPassword field"
+    },
+
+    "logIn":"LOG IN",
+    "@logIn":{
+      "description":"log in"
+    },
+
+    "continueFacebbok":"Continue with Facebook",
+    "@continueFacebbok":{
+      "description":"Continue with Facebook logins"
+    },
+
+    "continueGoogle":"Continue with Google",
+    "@continueGoogle":{
+      "description":"Continue with Google logins"
+    },
+
+    "dontHaveAccount":"Don't have an account? ",
+    "@dontHaveAccount":{
+      "description":"do not have an account field"
+    },
+
+    "signUp":"Sign up",
+    "@signUp":{
+      "description":"Sign up"
+    },
+
+    "gain":"GAIN BACK CONTROL \n OF YOUR LIFE",
+    "@gain":{
+      "description":"gain heading"
+    },
+
+    "signUpFacebbok":"SIGN UP WITH FACEBOOK",
+    "@signUpFacebbok":{
+      "description":"sign with facebook"
+    },
+
+    "signUpGoogle":"SIGN UP WITH GOOGLE",
+    "@signUpGoogle":{
+      "description":"sign up with Google"
+    },
+
+    "signUpEmail":"Sign up with Email address",
+    "@signUpEmail":{
+      "description":"Sign up with email"
+    },
+
+    "haveAccount":"Already have an account? ",
+    "@haveAccount":{
+      "description":"Already have account text"
+    },
+
+    "signIn":"Sign in",
+    "@signIn":{
+      "description":"Sign in"
+    },
+
+    "whatsUrEmail":"Whats your email address?",
+    "@whatsUrEmail":{
+      "description":"Whats your email text"
+    },
+
+    "email":"Email",
+    "@email":{
+      "description":"Emailfield"
+    },
+
+    "genderQuestion":"Whats your gender?",
+    "@genderQuestion":{
+      "description":"Gender question text"
+    },
+
+    "male":"Male",
+    "@male":{
+      "description":"Male gender"
+    },
+
+    "female":"Female",
+    "@female":{
+      "description":"Female gender"
+    },
+
+    "na":"N/A",
+    "@na":{
+      "description":"Not applicable"
+    },
+
+    "trainQuestion":"How much do you train?",
+    "@trainQuestion":{
+      "description":"Train question"
+    },
+
+    "next":"Next",
+    "@next":{
+      "description":"Next button"
+    },
+
+    "continueText":"Continue",
+    "@continueText":{
+      "description":"continue button"
+    },
+
+    "choosePassword":"Choose a password",
+    "@choosePassword":{
+      "description":"choose a password text"
+    },
+
+    "cofirmPassword":"Confirm password",
+    "@cofirmPassword":{
+      "description":"Confirm password text"
+    },
+
+    "passwordValid1":"Minimum of 8 characters",
+    "@passwordValid1":{
+      "description":"Password 1st validation message"
+    },
+
+    "passwordValid2":"A capital letter",
+    "@passwordValid2":{
+      "description":"Password 2nd validation message"
+    },
+
+    "passwordValid3":"A lowercase letter",
+    "@passwordValid3":{
+      "description":"Password 3rd validation message"
+    },
+
+    "passwordValid4":"A number",
+    "@passwordValid4":{
+      "description":"Password 4th validation message"
+    },
+
+    "passwordValid5":"Both boxes match",
+    "@passwordValid5":{
+      "description":"Password 5th validation message"
+    },
+
+    "trainMsg1":"Once a week",
+    "@trainMsg1":{
+      "description":"Train message"
+    },
+
+    "trainMsg2":"Twice a week",
+    "@trainMsg2":{
+      "description":"Train message"
+    },
+
+    "trainMsg3":"Thrice a week",
+    "@trainMsg3":{
+      "description":"Train message"
+    },
+
+    "trainMsg4":"Entire week",
+    "@trainMsg4":{
+      "description":"Train message"
+    },
+    "loadingText":"Loading please wait",
+    "@loadingText":{
+      "description":"login progress text"
+    }
+}
